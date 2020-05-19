@@ -1,3 +1,4 @@
+
 on:
   push:
     branches:
@@ -27,4 +28,3 @@ jobs:
         inlineScript: |
           chmod +x ./lab_1/list_resourcegroups.sh
           ./lab_1/list_resourcegroups.sh
-© 2020 GitHub, Inc.
